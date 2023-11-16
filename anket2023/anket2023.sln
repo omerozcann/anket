@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anket2023", "anket2023\anket2023.csproj", "{980CA518-BA5C-4139-9C97-64CDB38FB1B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980CA518-BA5C-4139-9C97-64CDB38FB1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980CA518-BA5C-4139-9C97-64CDB38FB1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980CA518-BA5C-4139-9C97-64CDB38FB1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980CA518-BA5C-4139-9C97-64CDB38FB1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B42AE0C-70FF-4D45-BE7A-DA62FF30D915}
+	EndGlobalSection
+EndGlobal

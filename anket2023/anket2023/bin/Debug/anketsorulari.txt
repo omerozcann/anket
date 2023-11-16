@@ -1,0 +1,4 @@
+Bu sınıfa ne zaman kaydoldunuz?;2021;2022;2023
+Aşağıdakilerden hangisi sizi en iyi tanımlar?;Birinci sınıf;İkinci sınıf;Kıdemli
+Ders müfredatından memnuniyet düzeyinizi belirtiniz;Memnun değilim;Nötr;Memnunum
+Sınıf müfredatı sizin için ne kadar zor?;Zor;Nötr;Kolay

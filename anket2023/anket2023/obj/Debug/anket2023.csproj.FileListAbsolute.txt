@@ -1,0 +1,11 @@
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\bin\Debug\anket2023.exe.config
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\bin\Debug\anket2023.exe
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\bin\Debug\anket2023.pdb
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.csproj.SuggestedBindingRedirects.cache
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.anketFrm.resources
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.exe
+D:\Belgeler\Visual Studio 2022\Projects\anket2023\anket2023\obj\Debug\anket2023.pdb

@@ -1,0 +1,16 @@
+Bu sınıfa ne zaman kaydoldunuz?;2022
+Aşağıdakilerden hangisi sizi en iyi tanımlar?;Kıdemli
+Ders müfredatından memnuniyet düzeyinizi belirtiniz;Memnun değilim
+Sınıf müfredatı sizin için ne kadar zor?;Kolay
+Bu sınıfa ne zaman kaydoldunuz?;2021
+Aşağıdakilerden hangisi sizi en iyi tanımlar?;İkinci sınıf
+Ders müfredatından memnuniyet düzeyinizi belirtiniz;Memnun değilim
+Sınıf müfredatı sizin için ne kadar zor?;Nötr
+Bu sınıfa ne zaman kaydoldunuz?;2023
+Aşağıdakilerden hangisi sizi en iyi tanımlar?;Birinci sınıf
+Ders müfredatından memnuniyet düzeyinizi belirtiniz;Nötr
+Sınıf müfredatı sizin için ne kadar zor?;Zor
+Bu sınıfa ne zaman kaydoldunuz?;2023
+Aşağıdakilerden hangisi sizi en iyi tanımlar?;Kıdemli
+Ders müfredatından memnuniyet düzeyinizi belirtiniz;Memnun değilim
+Sınıf müfredatı sizin için ne kadar zor?;Zor
